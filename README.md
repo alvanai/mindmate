@@ -1,2 +1,0 @@
-# mindmate
-Personal wellness Pal
